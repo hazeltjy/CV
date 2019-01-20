@@ -1,0 +1,17 @@
+  body{
+    background-color: #f7e9e3;
+  }
+
+  hr{
+    border-style: none;
+    height: 2px;
+    width: 60px;
+    border-style: dotted none none none;
+    border-top-width: thick;
+    border-color: white;
+  }
+
+  h1, h3{
+    color: #6dc9c8;
+    font-family: serif;
+  }
